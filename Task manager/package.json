@@ -1,0 +1,19 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-names.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0"
+  }
+}
